@@ -1,0 +1,22 @@
+
+.button {
+    padding: 10px;
+    color: rgb(19, 92, 180);
+   border-radius: 20px;
+  }
+ a{
+    text-decoration: none;
+  }
+
+  p{
+    font-size: 25px;
+  }
+
+  h1{
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .demo{
+    margin-right: 50px;
+  }
+  
